@@ -25,7 +25,11 @@ En tant que DM, j'utilise [LightDM](https://github.com/canonical/lightdm) qui es
 
 [Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/etc/lightdm/lightdm-gtk-greeter.conf.clt)
 
+### Gestionnaire de fenêtres
 
+J'utilise [I3-Gaps](https://github.com/AirBlader/I3) en tant que gestionnaire de fênetres, j'adore le tiling et il a l'énorme avantage d'être très léger et possible à controler **totalement** au clavier
+
+[Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.config/i3/config)
 ### Pc portable
 ::: danger
 Indisponible actuellement: Pc en répartion
