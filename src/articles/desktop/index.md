@@ -21,7 +21,7 @@ Mon système d'exploitation principal est [Calculate Linux](https://calculate-li
 
 ### Display manager
 
-En tant que DM, j'utilise [LightDM](https://github.com/canonical/lightdm) qui est léger et customisable.
+En tant que DM, j'utilise [LightDM](https://github.com/canonical/lightdm) qui est léger et customisable. Mon fond d'écran lightdm est automatique changé à chaque redémarrage [grâce à ce petit service OpenRC](https://github.com/Woomy4680-exe/dotfiles/blob/main/etc/init.d/lightdm-wallpaper).
 
 [Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/etc/lightdm/lightdm-gtk-greeter.conf.clt)
 
@@ -30,7 +30,33 @@ En tant que DM, j'utilise [LightDM](https://github.com/canonical/lightdm) qui es
 J'utilise [I3-Gaps](https://github.com/AirBlader/I3) en tant que gestionnaire de fênetres, j'adore le tiling et il a l'énorme avantage d'être très léger et possible à controler **totalement** au clavier
 
 [Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.config/i3/config)
+
+### Barre
+
+J'utilise [PolyBar](https://github.com/polybar/polybar) pour avoir une barre status simple et facile à configurer. 
+
+![PolyBar](./polybar.png)
+
+[Configuration Disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.config/polybar/config.ini)
+
+### Compositeur
+
+Après pas mal d'années sans compositeur(bugs graphiques, consommation,...), j'ai finalement décidé de rajouter [Picom](https://github.com/yshui/picom) à mon bureau. Je n'ai pas eu besoin de le configurer en, ne consomme que quelques Mo de RAM et reste n'ajoute pas de transparence non désirée.
+
+### Fonds d'écran
+
+Au niveau des fonds d'écran, j'en ai trouvé une partie sur [Unsplash](https://unsplash.com) et le reste a été trouvé à divers endroits. Mon fond d'écran change à chaque réouverture de session [grâce à ce script](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/bin/theming/wallpaper.sh)
+
+### Terminal
+
+En tant que terminal, j'utilise [Alacritty](https://github.com/alacritty/alacritty). La configuration est rapide et lisible et le terminal est léger et rapide.
+
+![Alacritty](./alacritty.png)
+
+[Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.config/alacritty/alacritty.yml)
+
 ### Pc portable
+
 ::: danger
 Indisponible actuellement: Pc en répartion
 :::
