@@ -43,6 +43,22 @@ J'utilise [PolyBar](https://github.com/polybar/polybar) pour avoir une barre sta
 
 Après pas mal d'années sans compositeur(bugs graphiques, consommation,...), j'ai finalement décidé de rajouter [Picom](https://github.com/yshui/picom) à mon bureau. Je n'ai pas eu besoin de le configurer en, ne consomme que quelques Mo de RAM et reste n'ajoute pas de transparence non désirée.
 
+### Lanceur d'applications
+
+J'utilise [rofi](https://github.com/davatorium/rofi) en tant que lanceur d'applications, il est léger un facilement customisable. 
+
+![rofi](./rofi.png)
+
+[Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/tree/main/home/woomy/.config/rofi)
+
+### Notifications
+
+C'est [dunst](https://dunst-project.org/) qui gère mes notfications.
+
+![notify](./dunst.png)
+
+[Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.config/dunst/dunstrc)
+
 ### Fonds d'écran
 
 Au niveau des fonds d'écran, j'en ai trouvé une partie sur [Unsplash](https://unsplash.com) et le reste a été trouvé à divers endroits. Mon fond d'écran change à chaque réouverture de session [grâce à ce script](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/bin/theming/wallpaper.sh)
