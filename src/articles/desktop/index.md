@@ -65,6 +65,14 @@ NeoVim est surement l'éditeur que j'utilise le plus. J'y ai rajouté pas mal de
 
 ![NeoVim](./nvim.png)
 
+[Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/tree/main/home/woomy/.config/nvim)
+
+### [Visual Studio Code](https://code.visualstudio.com)
+
+Pour certaines choses, j'utilises encore Visual Studio Code. J'ai quelques extensions et un thème noir. 
+
+![VSC](./vscode.png)
+
 ### Pc portable
 
 ::: danger
