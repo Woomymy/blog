@@ -55,6 +55,16 @@ En tant que terminal, j'utilise [Alacritty](https://github.com/alacritty/alacrit
 
 [Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.config/alacritty/alacritty.yml)
 
+## Editeurs
+
+J'utilise principalement 2 éditeurs: [Neovim](https://neovim.io) et [Visual Studio Code](https://code.visualstudio.com)
+
+### [NeoVim](https://neovim.io)
+
+NeoVim est surement l'éditeur que j'utilise le plus. J'y ai rajouté pas mal de plugins afin de par exemple de disposer d'autocomplétion, avoir une joli status bar, un Rich presence Discord, un explorateur de fichiers,...
+
+![NeoVim](./nvim.png)
+
 ### Pc portable
 
 ::: danger
