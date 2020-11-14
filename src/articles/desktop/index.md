@@ -71,6 +71,16 @@ En tant que terminal, j'utilise [Alacritty](https://github.com/alacritty/alacrit
 
 [Configuration disponible ici](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.config/alacritty/alacritty.yml)
 
+### Shell
+
+J'utilise [ZSH](https://www.zsh.org/) en tant que shell avec [Powerlevel10K](https://github.com/romkatv/powerlevel10k) et [Oh-My-zsh](https://ohmyz.sh/) 
+
+![ZSH](./zsh.png) 
+
+[Configuration de ZSH](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.zshrc)
+
+[Configuration de Powerlevel10K](https://github.com/Woomy4680-exe/dotfiles/blob/main/home/woomy/.p10k.zsh)
+
 ## Editeurs
 
 J'utilise principalement 2 éditeurs: [Neovim](https://neovim.io) et [Visual Studio Code](https://code.visualstudio.com)
