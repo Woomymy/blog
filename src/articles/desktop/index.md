@@ -100,7 +100,8 @@ Pour certaines choses, j'utilises encore Visual Studio Code. J'ai quelques exten
 ![VSC](./vscode.png)
 
 ### Pc portable
+Je dispose d'un [Acer Aspire 3 A317 51G](https://www.acer.com/ac/fr/BE/content/support-product/8032?b=1)
 
 ::: danger
-Indisponible actuellement: Pc en répartion
+Cette section va subir des mises à jour
 :::
