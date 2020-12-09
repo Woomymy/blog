@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-node@v2.1.0
         with:
           node-version: '12.x'
-
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
