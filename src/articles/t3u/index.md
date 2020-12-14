@@ -20,6 +20,10 @@ ET VOILA! Votre adaptateur devrait maintenant être utilisable et disponible dan
 > N.B: Pour les plus feignants d'entre vous, j'ai créé un script automatisé. [Ici](https://github.com/Woomy4680-exe/Archer-T3U-Linux)
 
 ## Installation AVEC DKMS
+::: danger
+DKMS ne peut pas être utilisé sur les kernels trop récent, il refuse de compiler le pilote.
+:::
+
 Tout aussi simple, mais avec DKMS(assurez vous de l'avoir installé)
 ```bash
 git clone "https://github.com/RinCat/RTL88x2BU-Linux-Driver.git" /usr/src/rtl88x2bu-git
