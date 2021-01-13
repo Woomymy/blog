@@ -22,5 +22,8 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    ['feed', {
+      canonical_base: "https://woomy4680-exe.github.io/blog"
+    }]
   ]
 }
