@@ -16,6 +16,7 @@
     "vuepress": "^1.5.3"
   },
   "dependencies": {
+    "vuepress-plugin-feed": "^0.1.9",
     "vuepress-theme-yuu": "^2.3.0"
   }
 }

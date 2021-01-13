@@ -1,3 +1,17 @@
+---
+title: Installer un archer t3u plus sur linux
+
+feed:
+  enable: true
+  title: Archer T3U
+  description: Guide d'installation d'un T3U plus sur Linux
+  image: /articles/desktop/alacritty.png
+  author:
+    -
+      name: Woomy4680-exe
+      email: github@woomy.ovh
+      link: http://woomy.ovh
+---
 # Installer un adaptateur TP-Link archer T3U (plus) sur Linux
 
 [[toc]]
