@@ -1,3 +1,9 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://woomy4680-exe.github.io/blog"
+languageCode = "fr-fr"
+title = "Blog"
+theme = "terminal"
+[params]
+contentTypeName = "posts"
+themeColor = "pink"
+fullWidthTheme = true
+CenterTheme = true
