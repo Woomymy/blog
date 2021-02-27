@@ -1,9 +1,9 @@
 baseURL = "https://woomy4680-exe.github.io/blog"
 languageCode = "fr-fr"
 title = "Blog"
-theme = "terminal"
+theme = "PaperMod"
+[params.homeInfoParams]
+Title = "Plop 👋"
+Content = "Bienvenue sur mon blog!"
 [params]
-contentTypeName = "posts"
-themeColor = "pink"
-fullWidthTheme = true
-CenterTheme = true
+socialIcons = [ { name = "github", url = "https://github.com/Woomy4680-exe" }, { name = "twitter", url = "https://twitter.com/Woomy4680"}, { name = "email", url = "mailto:github@woomy.ovh" }, { name = "gitlab", url = "https://gitlab.com/Woomy" }, { name = "reddit", url = "https://reddit.com/u/Woomy4680-exe" }, { name = "telegram", url = "https://t.me/woomy4680_exe"} ]
