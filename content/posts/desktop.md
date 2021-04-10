@@ -8,7 +8,7 @@ draft: false
 
 ## PC Portable
 
-Je dispose d'un Acer Aspire A317-51G avec 8Go de ram, un i7-10510U et une Geforce MX250. Ce PC portable est donc affecté par une maladie nommée "optimus", comprenez ma souffrance. Le PC tourne sous Calculate GNU/Linux depuis maintenant quelque mois.
+Je dispose d'un Acer Aspire A317-51G avec 12Go de ram (dont 4rajoutés), un i7-10510U et une Geforce MX250. Ce PC portable est donc affecté par une maladie nommée "optimus", comprenez ma souffrance. Le PC tourne sous Calculate GNU/Linux depuis maintenant quelque mois.
 
 ### Problèmes rencontrés
 
