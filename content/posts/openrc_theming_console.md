@@ -54,21 +54,25 @@ depend()
 start()
 {
 	einfo "Setting up tty color scheme"
-	echo -en \\e]P02E3440
-	echo -en \\e]P1BF616A
-	echo -en \\e]P2A3BE8C
-	echo -en \\e]P3EBCB8B
-	echo -en \\e]P481A1C1
-	echo -en \\e]P5B48EAD
-	echo -en \\e]P688C0D0
-	echo -en \\e]P7E5E9F0
-	echo -en \\e]P84C566A
-	echo -en \\e]P9BF616A
-	echo -en \\e]PAA3BE8C
-	echo -en \\e]PBEBCB8B
-	echo -en \\e]PCB48EAD
-	echo -en \\e]PD8FBCBB
-	echo -en \\e]PEECEFF4
+	for i in 1 2 3 4 5 6 7 8 9 10 11 12
+	do
+		t="/dev/tty${i}"
+		echo -en \\e]P02E3440 >> $t
+		echo -en \\e]P1BF616A >> $t
+		echo -en \\e]P2A3BE8C >> $t
+		echo -en \\e]P3EBCB8B >> $t
+		echo -en \\e]P481A1C1 >> $t
+		echo -en \\e]P5B48EAD >> $t
+		echo -en \\e]P688C0D0 >> $t
+		echo -en \\e]P7E5E9F0 >> $t
+		echo -en \\e]P84C566A >> $t
+		echo -en \\e]P9BF616A >> $t
+		echo -en \\e]PAA3BE8C >> $t
+		echo -en \\e]PBEBCB8B >> $t
+		echo -en \\e]PCB48EAD >> $t
+		echo -en \\e]PD8FBCBB >> $t
+		echo -en \\e]PEECEFF4 >> $t
+	done
 }
 ```
 Copy this service in `/etc/init.d/tty-colorscheme-nord` and add it to the "sysinit" runlevel (`rc-update add tty-colorscheme-nord sysinit`)
