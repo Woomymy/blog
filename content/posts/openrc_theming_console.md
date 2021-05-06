@@ -77,5 +77,5 @@ Copy this service in `/etc/init.d/tty-colorscheme-nord` and add it to the "sysin
 
 ## Taking a screenshot
 
-If you want to "take a screenshot" of your TTY, you can use `fbcat` or `fbgrad`.
+If you want to "take a screenshot" of your TTY, you can use `fbcat` or `fbgrab`.
 
