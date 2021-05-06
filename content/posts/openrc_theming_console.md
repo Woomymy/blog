@@ -69,7 +69,6 @@ start()
 	echo -en \\e]PCB48EAD
 	echo -en \\e]PD8FBCBB
 	echo -en \\e]PEECEFF4
-	clear
 }
 ```
 Copy this service in `/etc/init.d/tty-colorscheme-nord` and add it to the "sysinit" runlevel (`rc-update add tty-colorscheme-nord sysinit`)
