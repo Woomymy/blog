@@ -36,7 +36,6 @@ echo -en \\e]PBEBCB8B
 echo -en \\e]PCB48EAD
 echo -en \\e]PD8FBCBB
 echo -en \\e]PEECEFF4
-clear
 ```
 
 and in a OpenRC service:
