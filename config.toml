@@ -1,6 +1,7 @@
 baseURL = "https://blog.woomy.ovh"
 languageCode = "fr-fr"
 title = "Blog"
+enableEmoji = true
 theme = "PaperMod"
 [params.homeInfoParams]
 Title = "Plop 👋"

@@ -1,5 +1,5 @@
 ---
-title: "Disable \"sleep\" and \"hibernate\" keys on GNU/Linux"
+title: "[EN] Disable \"sleep\" and \"hibernate\" keys on GNU/Linux"
 date: 2021-04-16T10:25:41+02:00
 draft: false
 ---
