@@ -7,4 +7,5 @@ theme = "PaperMod"
 Title = "Plop 👋"
 Content = "Bienvenue sur mon blog!"
 [params]
-socialIcons = [ { name = "github", url = "https://github.com/Woomy4680-exe" }, { name = "twitter", url = "https://twitter.com/Woomy4680"}, { name = "email", url = "mailto:github@woomy.ovh" }, { name = "gitlab", url = "https://gitlab.com/Woomy" }, { name = "reddit", url = "https://reddit.com/u/Woomy4680-exe" }, { name = "telegram", url = "https://t.me/woomy4680_exe"} ]
+socialIcons = [ { name = "github", url = "https://github.com/Woomy4680-exe" }, { name = "twitter", url = "https://twitter.com/Woomy4680"}, { name = "email", url = "mailto:github@woomy.ovh" }, { name = "gitlab", url = "https://gitlab.com/Woomy" }, { name = "reddit", url = "https://reddit.com/u/Woomy4680-exe" }, { name = "telegram", url = "https://t.me/woomy4680_exe"}, { name = "gitea", url = "https://gitea.woomy.ovh" }, { name = "matrix", url = "https://matrix.to/#/@woomy4680-exe:matrix.org" } ]
+
