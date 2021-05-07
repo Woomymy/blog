@@ -1,5 +1,5 @@
 ---
-title: "Installing Calculate GNU/Linux on your VPS"
+title: "[EN] Installing Calculate GNU/Linux on your VPS"
 date: 2021-04-23T09:03:44+02:00
 draft: false
 ---

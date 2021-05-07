@@ -1,5 +1,5 @@
 ---
-title: "Archer T3u sur GNU/Linux"
+title: "[FR] Archer T3u sur GNU/Linux"
 date: 2021-02-27T15:06:10+01:00
 draft: false
 ---
