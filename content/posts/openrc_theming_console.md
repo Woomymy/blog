@@ -1,5 +1,5 @@
 ---
-title: "Theming your TTY (with OpenRC)"
+title: "[EN] Theming your TTY (with OpenRC)"
 date: 2021-05-05T11:23:03+02:00
 draft: false
 ---
