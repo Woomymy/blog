@@ -16,5 +16,4 @@ Le plus gros problème rencontré avec ce portable est le touchpad. Mais heureus
 
 ### Noyau
 
-J'utilise un kernel xanmod avec une [configuration personnalisée](https://github.com/Woomy4680-exe/dotfiles-laptop/blob/main/usr/src/linux/.config) spécialement faite pour ce laptop / mon utilisation.
-
+J'utilise un kernel xanmod avec une [configuration personnalisée](https://github.com/Woomymy/dotfiles-laptop/blob/main/usr/src/linux/.config) spécialement faite pour ce laptop / mon utilisation.
