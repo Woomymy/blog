@@ -9,7 +9,7 @@ draft: false
 
 ## Problématiques
 
-Récemment, j'ai eu l'occasion d'aider quelqu'un qui possédait un T3U sur son PC portable, afin d'avoir un meilleur débit que la carte WIFI intégrée. La carte n'était pas reconnue sur **Pop!_Os**. Après quelques recherches, j'ai fini par trouver une solution.
+Récemment, j'ai eu l'occasion d'aider quelqu'un qui possédait un T3U sur son PC portable, afin d'avoir un meilleur débit que la carte WIFI intégrée. La carte n'était pas reconnue sur **Pop!\_Os**. Après quelques recherches, j'ai fini par trouver une solution.
 
 ## Installation sans DKMS
 
@@ -26,7 +26,7 @@ sudo modprobe 88x2bu
 
 ET VOILA! Votre adaptateur devrait maintenant être utilisable et disponible dans GNOME(ou autre DE, à vous de voir)
 
-> N.B: Pour les plus feignants d'entre vous, j'ai créé un script automatisé. [Ici](https://github.com/Woomy4680-exe/Archer-T3U-Linux)
+> N.B: Pour les plus feignants d'entre vous, j'ai créé un script automatisé. [Ici](https://github.com/Woomymy/Archer-T3U-Linux)
 
 ## Installation AVEC DKMS
 
