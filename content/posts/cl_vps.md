@@ -22,7 +22,7 @@ If you have a separated "/boot/", you need to move "css.iso" to "/boot/css.iso".
 
 ### Creating a GRUB menuentry
 
-The next thing to do is creating a GRUB menuentry for the ISO. Here's an exemple (save it to /etc/grub.d/40\_custom)
+The next thing to do is creating a GRUB menuentry for the ISO. Here's an exemple (save it to /etc/grub.d/40_custom)
 
 ```bash
 #!/bin/sh
@@ -42,5 +42,4 @@ Now update the GRUB menu (`update-grub` or `grub-mkconfig -o /boot/grub/grub.cfg
 
 ### Connecting with VNC and starting the installer
 
-Now, connect with VNC to your VPS and choose "Calculate GNU/Linux installer". You are now able to use cl-install and install your Calculate system. Make sure you don't need aditionnal network configurations and other things like this. If you wan help to install Calculate, you can check my [Calculate GNU/Linux install guide](https://woomy4680-exe.github.io/calculate-install/posts/cls/)
-
+Now, connect with VNC to your VPS and choose "Calculate GNU/Linux installer". You are now able to use cl-install and install your Calculate system. Make sure you don't need aditionnal network configurations and other things like this. If you wan help to install Calculate, you can check my [Calculate GNU/Linux install guide](https://calculate-install.woomy.ovh/posts/cls/)
