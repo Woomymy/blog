@@ -15,7 +15,7 @@ socialIcons = [
     { name = "reddit", url = "https://reddit.com/u/Woomy4680-exe" },
     { name = "telegram", url = "https://t.me/woomymy"},
     { name = "gitea", url = "https://gitea.woomy.ovh" },
-    { name = "matrix", url = "https://matrix.to/#/@woomy4680-exe:matrix.org" },
+    { name = "matrix", url = "https://matrix.to/#/@woomymy:matrix.org" },
     { name = "xda", url = "https://forum.xda-developers.com/m/woomymy.11816747/" }
 ]
 ShowReadingTime = true
