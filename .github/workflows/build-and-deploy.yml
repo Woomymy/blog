@@ -13,7 +13,6 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true  # Make sure we fetch the theme
-          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
