@@ -1,4 +1,4 @@
-baseURL = "https://blog.woomy.ovh"
+baseURL = "https://blog.woomy.be"
 languageCode = "fr-fr"
 title = "Blog"
 enableEmoji = true
@@ -10,11 +10,11 @@ Content = "Bienvenue sur mon blog!"
 socialIcons = [
     { name = "github", url = "https://github.com/Woomymy" },
     { name = "twitter", url = "https://twitter.com/Woomymy"},
-    { name = "email", url = "mailto:github@woomy.ovh" },
+    { name = "email", url = "mailto:github@woomy.be" },
     { name = "gitlab", url = "https://gitlab.com/Woomy" },
     { name = "reddit", url = "https://reddit.com/u/Woomy4680-exe" },
     { name = "telegram", url = "https://t.me/woomymy"},
-    { name = "gitea", url = "https://gitea.woomy.ovh" },
+    { name = "gitea", url = "https://gitea.woomy.be" },
     { name = "matrix", url = "https://matrix.to/#/@woomymy:matrix.org" },
     { name = "xda", url = "https://forum.xda-developers.com/m/woomymy.11816747/" }
 ]

@@ -1,3 +1,3 @@
 # Blog
 
-[Here](https://blog.woomy.ovh)
+[Here](https://blog.woomy.be)
